@@ -1,5 +1,9 @@
 # 04-pokemon-game
 
+##Project deployed
+
+https://samuele-vue-pokemon-test.netlify.app/
+
 ## Project setup
 ```
 npm install
