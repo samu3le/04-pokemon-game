@@ -1,6 +1,6 @@
 # 04-pokemon-game
 
-##Project deployed
+## Project deployed
 
 https://samuele-vue-pokemon-test.netlify.app/
 
