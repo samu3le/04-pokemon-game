@@ -1,4 +1,4 @@
-# 04-pokemon-game
+# 04-pokemon-game / Options API
 
 ## Project deployed
 
